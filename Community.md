@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Devarsh Shah</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/devarsh10</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/devarsh18</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>New L.J. Institute of Engineering and Technology (GTU)</td>
+      </tr>
+    </table>
